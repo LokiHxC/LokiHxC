@@ -13,11 +13,9 @@ My goal is to continue growing as an IoT specialist and provide value to my team
 - Bachelor's Degree in Industrial Automation from the University of Santiago of Chile (2019)
 
 ## Key Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,mysql,angular,react,tailwind,bootstrap,nodejs,ubuntu,windows,vscode,arduino,raspberrypi,aws,grafana,autocad,git,postman,figma&theme=light&perline=8" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,mysql,angular,react,tailwind,bootstrap,nodejs,ubuntu,windows,vscode,arduino,raspberrypi,aws,grafana,autocad,git,postman,figma&theme=light&perline=8" />
+</div>
 
 ## Contact
 <div align="center">
