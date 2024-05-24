@@ -21,5 +21,5 @@ My goal is to continue growing as an IoT specialist and provide value to my team
 
 ## Contact
 - **Email**: Francisco.cornejo.c@usach.cl
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/francisco-cornejo-contreras-281ab12b5/)
-- **GitHub**: [Your GitHub Profile](https://github.com/LokiHxC)
+- **LinkedIn**: [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/francisco-cornejo-contreras-281ab12b5/)
+- **GitHub**: [![Github](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/LokiHxC)
