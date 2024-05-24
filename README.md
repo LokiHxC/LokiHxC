@@ -20,14 +20,14 @@ My goal is to continue growing as an IoT specialist and provide value to my team
 </p>
 
 ## Contact
-<p align="center>
-  <a href= "mailto:Francisco.cornejo.c@usach.cl">
+<div align="center">
+  <a href="mailto:Francisco.cornejo.c@usach.cl">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
-  <a href= "https://www.linkedin.com/in/francisco-cornejo-contreras-281ab12b5/">
+  <a href="https://www.linkedin.com/in/francisco-cornejo-contreras-281ab12b5/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
-  <a href= "https://github.com/LokiHxC">
+  <a href="https://github.com/LokiHxC">
     <img src="https://skillicons.dev/icons?i=github&theme=light" />
   </a>
-</p>
+</div>
