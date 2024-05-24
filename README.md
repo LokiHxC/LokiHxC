@@ -20,6 +20,6 @@ My goal is to continue growing as an IoT specialist and provide value to my team
 - Bachelor's Degree in Industrial Automation from the University of Santiago of Chile (2019)
 
 ## Contact
-- **Email**: Francisco.cornejo.c@usach.cl
+- **Email**: [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:Francisco.cornejo.c@usach.cl)
 - **LinkedIn**: [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/francisco-cornejo-contreras-281ab12b5/)
 - **GitHub**: [![Github](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/LokiHxC)
