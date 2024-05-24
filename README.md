@@ -14,18 +14,17 @@ My goal is to continue growing as an IoT specialist and provide value to my team
 
 ## Key Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,mysql,angular,react,tailwind,bootstrap,nodejs,ubuntu,windows,vscode,arduino,raspberrypi,aws,grafana,autocad,git,postman,figma&theme=light&perline=8" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,mysql,angular,react,tailwind,bootstrap,nodejs,ubuntu,windows,vscode,arduino,raspberrypi,aws,grafana,autocad,git,postman,figma&theme=light&perline=8" />
+  </a>
 </div>
+
 
 ## Contact
 <div align="center">
-  <a href="mailto:Francisco.cornejo.c@usach.cl">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-  </a>
-  <a href="https://www.linkedin.com/in/francisco-cornejo-contreras-281ab12b5/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
-  </a>
-  <a href="https://github.com/LokiHxC">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" />
-  </a>
+  <a href="mailto:Francisco.cornejo.c@usach.cl"><img src="https://skillicons.dev/icons?i=gmail&theme=light" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/francisco-cornejo-contreras-281ab12b5/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/LokiHxC"><img src="https://skillicons.dev/icons?i=github&theme=light" /></a>
 </div>
