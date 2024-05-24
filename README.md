@@ -8,16 +8,16 @@ My core competencies include industrial control, instrumentation, electronic cir
 
 My goal is to continue growing as an IoT specialist and provide value to my team and clients with high-quality, impactful solutions.
 
+## Certifications
+- Diploma in IoT Specialization from the Pontifical Catholic University of Valparaíso (2023)
+- Bachelor's Degree in Industrial Automation from the University of Santiago of Chile (2019)
+
 ## Key Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,mysql,angular,react,tailwind,bootstrap,nodejs,ubuntu,windows,vscode,arduino,raspberrypi,aws,grafana,autocad,git,postman,figma&theme=light&perline=8" />
   </a>
 </p>
-
-## Certifications
-- Diploma in IoT Specialization from the Pontifical Catholic University of Valparaíso (2023)
-- Bachelor's Degree in Industrial Automation from the University of Santiago of Chile (2019)
 
 ## Contact
 [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:Francisco.cornejo.c@usach.cl)
